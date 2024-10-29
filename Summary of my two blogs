@@ -1,1 +1,22 @@
+📄 Why Choose Flask? Article:
+"Why Choose Flask?" presents Flask as a flexible, lightweight Python web framework that’s perfect for dynamic websites 
+without the extra overhead of larger frameworks. Flask is designed for small to medium projects, with fast page loads and great scalability. 
+Its minimalistic approach gives developers the freedom to choose their tools, making it ideal for modular applications 
+and microservices—perfect for DevOps teams looking for agility and control. Flask’s detailed documentation 
+and active community make it accessible to beginners while offering robust features for seasoned developers.
+
+⚙️ Setting Up Minikube Clusters on Windows Article:
+"Setting Up Minikube Clusters on Windows" is a step-by-step guide on configuring local Kubernetes clusters with Minikube. 
+Tailored for DevOps needs, this setup allows developers to test and develop in a Kubernetes environment without the complexities of cloud infrastructure. 
+The guide covers Minikube’s architecture, including the control plane (API server, controller manager, scheduler, ETCD) 
+and worker nodes, using Docker as the container runtime. It walks through installation, cluster creation, 
+and deploying applications with kubectl create deployment. Minikube’s simplicity 
+and community support make it a powerful tool for DevOps professionals to explore Kubernetes locally 
+and build resilient testing environments.
+
+Here are the links for my Blogs:
+First Blog: https://medium.com/@ammarbinyasir/why-choose-flask-lightweight-frame-work-for-web-development-c869a14c321a
+Second Blog: https://medium.com/@ammarbinyasir/setting-up-minikube-clusters-on-windows-a-step-by-step-procedure-ce7a98947fec
+
+
 
