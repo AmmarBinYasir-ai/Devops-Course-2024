@@ -55,6 +55,19 @@ enhancing performance and observability across the board.
 
 <br>
 
+<p align="center">Enforcing Policies with Kyverno</p>
+With Kyverno, I implemented policies for security and compliance within Kubernetes,
+adding image restrictions and compliance audits to maintain a secure environment.
+
+<p align="center"> <a href="https://github.com/AmmarBinYasir-ai/kyverno-compliance-essentials.git">Kyverno Compliance Essentials</a><br> A Kyverno policy suite enforcing image source restrictions, mandatory deployment labeling, and standardization across Kubernetes clusters. </p> <br>
+<p align="center">Python Calculator Project with GitHub Actions</p>
+In this project, I created a basic Python calculator application and used GitHub Actions to automate testing and ensure code quality.
+The workflow runs tests automatically on every push to main, demonstrating the effectiveness of CI/CD pipelines.
+
+<p align="center"> <a href="https://github.com/AmmarBinYasir-ai/Python-Action-Test.git">Python Calculator Project with GitHub Actions</a><br> A Python application for basic arithmetic operations, featuring automated CI/CD with GitHub Actions. </p> <br>
+
+
+
 <h2 align="center">🚀 Skills and Tools</h2>
 
 <p align="center">
